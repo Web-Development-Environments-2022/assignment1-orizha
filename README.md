@@ -2,7 +2,7 @@
 
 
 
-site URL: https://web-development-environments-2021.github.io/assignment1-oryory2/
+site URL: https://web-development-environments-2022.github.io/assignment1-orizha/
 Git Account: oryory2
 ID: 316593557
 Name: Or Izhaky
