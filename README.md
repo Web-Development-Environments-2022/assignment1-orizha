@@ -1,1 +1,17 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7698621&assignment_repo_type=AssignmentRepo)
+# assignment1-oryory2
+
+
+
+site URL: https://web-development-environments-2021.github.io/assignment1-oryory2/
+Git Account: oryory2
+ID: 316593557
+Name: Or Izhaky
+
+This site is about my grandma - Yosefa Cohen.
+My site conatins:
+	1. A short background about Yosefa life.
+	2. Yosefa photos from the past.
+	3. Yosefa preferred song.
+	4. Option to Like & Share a Facebook page ("Hamppy Hamster").
+	5. Option to scan a QR - code that leading to my site.
+	6. Option to contact me via E-mail (with option to add Emojis).

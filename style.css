@@ -1,7 +1,61 @@
 #menu
 {
+	
 	position: fixed;
 	width: 100%;
 	height: 35px;
 	background: white;
 }
+
+body {
+  background-image: url('https://media.istockphoto.com/vectors/abstract-blue-wave-background-vector-id1223914421?k=20&m=1223914421&s=612x612&w=0&h=pdDbLnTMYY-sC4_GfpWePXo3ePEGPENQSeBoPh0E1xc=');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+
+.top {
+	background-color: rgb(36, 110, 107);
+	overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .top a {
+	float: right;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 22px;
+  }
+  
+  /* Change the color of links on hover */
+  .top a:hover {
+	background-color: #ddd;
+	color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .top a.active {
+	background-color: #b1b2bd;
+	color: white;
+  }
+ 
+
+h1 {
+	background-color: rgb(36, 110, 107);
+	color: rgb(255, 255, 255);
+	text-align: center;
+
+}
+
+
+.about {
+	color: rgb(0, 0, 0);
+	text-align: right;
+	font-size: 20px;
+
+
+}
+
